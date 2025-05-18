@@ -16,3 +16,4 @@ https://leetcode.com/u/bhatnag8/
 | 217  | easy | Contains Duplicate     | complete     | 18 may |
 | 242  | easy | Valid Anagram         | complete     | 18 may |
 | 1  | easy | Two Sum         | complete     | 18 may |
+| 14  | easy |  Longest Common Prefix         | complete     | 18 may |
