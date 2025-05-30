@@ -2,8 +2,6 @@
 
 some notes from dsa class
 
-## questions
-
 ### topic: sort
 
 | # |name | file |
